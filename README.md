@@ -1,4 +1,4 @@
-# docdoc
+# Docdoc App
 
 A new Flutter project.
 
